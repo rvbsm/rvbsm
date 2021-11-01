@@ -32,7 +32,7 @@
 
 ---
 
-![rvbsm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvbsm&show_icons=true&bg_color=45,ae32b5,8344be,6b4abf&locale=ru&hide_border=true&text_color=f9f9fd&title_color=dfdff4)
+![rvbsm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvbsm&theme=dark)
 
 [telegram]: https://t.me/rvbsm
 [instagram]: https://instagram.com/rvbsm
