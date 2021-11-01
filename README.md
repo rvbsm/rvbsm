@@ -2,7 +2,7 @@
 
 ---
 
-![rvbsm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvbsm&show_icons=true&bg_color=45,ae32b5,8344be,6b4abf&locale=ru&hide_border=true&)
+![rvbsm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvbsm&show_icons=true&bg_color=45,ae32b5,8344be,6b4abf&locale=ru&hide_border=true&text_color=ffffff)
 
 <!--
 **rvbsm/rvbsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
