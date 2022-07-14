@@ -4,7 +4,7 @@
 
 ---
 
-# Indie developer from Ukraine 🇺🇦
+# Indie developer
 - [ ] Create blog website
 - [ ] Frog OS
 - [ ] Get a job
