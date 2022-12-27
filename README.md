@@ -11,12 +11,3 @@
 - [x] Get rid of Genshin Impact addiction 🥲 [Jul 31, 2021 - Sep 13, 2022]
 
 ---
-
-Contacts
----
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
-
-
-
-[telegram]: https://t.me/rvbsm
