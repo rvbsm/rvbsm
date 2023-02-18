@@ -9,13 +9,7 @@ Hello, my name is Ruslan, I'm 19 y.o.
 
 ### Recent activity
 
-<!-- START_SECTION:activity -->
-1. 1
-2. 2
-3. 3
-4. 4
-5. 5
-<!-- END_SECTION:activity -->
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 ---
 
