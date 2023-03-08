@@ -9,11 +9,11 @@ Hello, my name is Ruslan, I'm 19 y.o.
 
 ### Recent activity
 
+* ⬆️ Pushed 4 commits to IPOleksenko/PocketHome
 * ⬆️ Pushed 1 commit to IPOleksenko/PocketHome
 * ⬆️ Pushed 8 commits to IPOleksenko/PocketHome
 * 💪 Opened PR #6 in IPOleksenko/PocketHome
 * ⬆️ Pushed 1 commit to IPOleksenko/PocketHome
-* 💪 Opened PR #5 in IPOleksenko/PocketHome
 
 ---
 
