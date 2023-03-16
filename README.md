@@ -9,10 +9,10 @@ Hello, my name is Ruslan, I'm 19 y.o.
 
 ### Recent activity
 
-* ⬆️ Pushed 5 commits to rvbsm/fsit
-* ⬆️ Pushed 7 commits to rvbsm/fsit
 * ⬆️ Pushed 1 commit to rvbsm/fsit
-* ⬆️ Pushed 5 commits to rvbsm/fsit
+* ⬆️ Pushed 1 commit to rvbsm/fsit
+* 📦 Released "v1.0.0-beta.3" in rvbsm/fsit
+* ⬆️ Pushed 22 commits to rvbsm/fsit
 * ⬆️ Pushed 1 commit to rvbsm/fsit
 
 ---
