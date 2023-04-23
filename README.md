@@ -9,11 +9,11 @@ Hello, my name is Ruslan, I'm 19 y.o.
 
 ### Recent activity
 
-* 🗣 Commented on #5 in rvbsm/fsit
-* 📦 Released "v1.1.0" in rvbsm/fsit
-* ⬆️ Pushed 20 commits to rvbsm/fsit
-* 🎉 Merged PR #7 in rvbsm/fsit
-* 💪 Opened PR #7 in rvbsm/fsit
+* ❗️ Closed issue #8 in rvbsm/fsit
+* 📦 Released "v1.1.1" in rvbsm/fsit
+* ⬆️ Pushed 2 commits to rvbsm/fsit
+* ❗️ Reopened issue #8 in rvbsm/fsit
+* ❗️ Closed issue #8 in rvbsm/fsit
 
 ---
 
