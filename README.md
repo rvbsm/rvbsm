@@ -9,11 +9,11 @@ Hello, my name is Ruslan, I'm 19 y.o.
 
 ### Recent activity
 
+* 🗣 Commented on #10 in rvbsm/fsit
 * 🗣 Commented on #9 in rvbsm/fsit
 * 🗣 Commented on #9 in rvbsm/fsit
 * 🗣 Commented on #9 in rvbsm/fsit
 * 🗣 Commented on #9 in rvbsm/fsit
-* ❗️ Closed issue #8 in rvbsm/fsit
 
 ---
 
