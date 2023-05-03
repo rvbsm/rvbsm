@@ -9,11 +9,11 @@ Hello, my name is Ruslan, I'm 19 y.o.
 
 ### Recent activity
 
+* ⬆️ Pushed 1 commit to rvbsm/prisma-upstash-middleware
+* 🗣 Commented on #13 in rvbsm/fsit
 * ❗️ Closed issue #11 in rvbsm/fsit
 * 🗣 Commented on #11 in rvbsm/fsit
 * 📦 Released "v1.1.2" in rvbsm/fsit
-* ⬆️ Pushed 4 commits to rvbsm/fsit
-* 🎉 Merged PR #12 in rvbsm/fsit
 
 ---
 
