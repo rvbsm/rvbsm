@@ -5,7 +5,7 @@
 
 ## Indie developer
 
-Hello, my name is Ruslan, I'm 19 y.o.
+Hello, my name is Ruslan, I'm 20 y.o.
 
 ### Recent activity
 
