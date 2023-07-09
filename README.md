@@ -5,15 +5,15 @@
 
 ## Indie developer
 
-Hello, my name is Ruslan, I'm 19 y.o.
+Hello, my name is Ruslan, I'm 20 y.o.
 
 ### Recent activity
 
+* ⬆️ Pushed 8 commits to rvbsm/fsit
+* ⬆️ Pushed 1 commit to rvbsm/rvbsm
 * ⬆️ Pushed 4 commits to rvbsm/fsit
 * ⬆️ Pushed 4 commits to rvbsm/fsit
 * ⬆️ Pushed 6 commits to rvbsm/fsit
-* ⬆️ Pushed 1 commit to rvbsm/fsit
-* ⬆️ Pushed 2 commits to rvbsm/fsit
 
 ---
 
