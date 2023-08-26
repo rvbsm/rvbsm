@@ -9,11 +9,11 @@ Hello, my name is Ruslan, I'm 20 y.o.
 
 ### Recent activity
 
+* ⬆️ Pushed 1 commit to IPOleksenko/PocketHome_for_Fabric
+* ⬆️ Pushed 1 commit to IPOleksenko/PocketHome_for_Fabric
 * 🗣 Commented on #8 in thebrightspark/AsyncLocator
 * ❗️ Opened issue #8 in thebrightspark/AsyncLocator
 * 🗣 Commented on #21 in rvbsm/fsit
-* 🗣 Commented on #21 in rvbsm/fsit
-* ⬆️ Pushed 1 commit to rvbsm/fsit
 
 ---
 
