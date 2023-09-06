@@ -9,11 +9,11 @@ Hello, my name is Ruslan, I'm 20 y.o.
 
 ### Recent activity
 
-* ⬆️ Pushed 1 commit to IPOleksenko/PocketHome_for_Fabric
-* 🗣 Commented on #29 in jpenilla/better-fabric-console
-* ❗️ Opened issue #29 in jpenilla/better-fabric-console
-* ⬆️ Pushed 1 commit to IPOleksenko/PocketHome_for_Fabric
-* ⬆️ Pushed 1 commit to IPOleksenko/PocketHome_for_Fabric
+* 🗣 Commented on #22 in rvbsm/fsit
+* 📦 Released "v1.3.2" in rvbsm/fsit
+* ⬆️ Pushed 1 commit to rvbsm/fsit
+* ⬆️ Pushed 1 commit to rvbsm/fsit
+* ⬆️ Pushed 1 commit to rvbsm/fsit
 
 ---
 
