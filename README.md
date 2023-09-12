@@ -9,11 +9,11 @@ Hello, my name is Ruslan, I'm 20 y.o.
 
 ### Recent activity
 
-* 📦 Released "v1.0.0" in rvbsm/reanviled
-* ⬆️ Pushed 1 commit to rvbsm/reanviled
-* 📦 Released "v1.0.0" in rvbsm/reanviled
-* ⬆️ Pushed 1 commit to rvbsm/reanviled
-* 📦 Released "v1.0.0" in rvbsm/reanviled
+* 💪 Opened PR #521 in muety/wakapi
+* ⬆️ Pushed 1 commit to rvbsm/wakapi
+* 🍴 Forked rvbsm/wakapi from muety/wakapi
+* ⬆️ Pushed 1 commit to rvbsm/wakapi
+* 🍴 Forked rvbsm/wakapi from muety/wakapi
 
 ---
 
