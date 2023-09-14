@@ -9,11 +9,11 @@ Hello, my name is Ruslan, I'm 20 y.o.
 
 ### Recent activity
 
+* 💪 Opened PR #2 in IPOleksenko/PocketHome_for_Fabric
 * 💪 Opened PR #521 in muety/wakapi
 * ⬆️ Pushed 1 commit to rvbsm/wakapi
 * 🍴 Forked rvbsm/wakapi from muety/wakapi
 * ⬆️ Pushed 1 commit to rvbsm/wakapi
-* 🍴 Forked rvbsm/wakapi from muety/wakapi
 
 ---
 
