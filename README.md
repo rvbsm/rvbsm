@@ -9,11 +9,11 @@ Hello, my name is Ruslan, I'm 20 y.o.
 
 ### Recent activity
 
+* ⬆️ Pushed 3 commits to rvbsm/benchantments
 * ⬆️ Pushed 1 commit to rvbsm/benchantments
 * ⬆️ Pushed 1 commit to rvbsm/benchantments
 * ⬆️ Pushed 1 commit to rvbsm/benchantments
 * 💪 Opened PR #2 in IPOleksenko/PocketHome_for_Fabric
-* 💪 Opened PR #521 in muety/wakapi
 
 ---
 
