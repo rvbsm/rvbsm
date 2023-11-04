@@ -9,11 +9,11 @@ Hello, my name is Ruslan, I'm 20 y.o.
 
 ### Recent activity
 
-* 🗣 Commented on #24 in rvbsm/fsit
-* ❗️ Closed issue #24 in rvbsm/fsit
-* 📦 Released "v1.4.2" in rvbsm/fsit
-* ⬆️ Pushed 1 commit to rvbsm/fsit
-* ⬆️ Pushed 1 commit to rvbsm/fsit
+* 💪 Opened PR #94 in TheCSMods/mc-better-stats
+* ⬆️ Pushed 1 commit to rvbsm/mc-better-stats
+* ⬆️ Pushed 1 commit to rvbsm/mc-better-stats
+* ⬆️ Pushed 1 commit to rvbsm/mc-better-stats
+* 🍴 Forked rvbsm/mc-better-stats from TheCSMods/mc-better-stats
 
 ---
 
