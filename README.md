@@ -7,16 +7,9 @@
 
 Hello, my name is Ruslan, I'm 20 y.o.
 
-### Recent activity
-
-* ⬆️ Pushed 1 commit to rvbsm/fsit
-* ⬆️ Pushed 4 commits to rvbsm/fsit
-* ⬆️ Pushed 3 commits to rvbsm/fsit
-* ⬆️ Pushed 2 commits to rvbsm/fsit
-* ⬆️ Pushed 1 commit to rvbsm/fsit
-
 ---
 
 <!-- variables -->
+
 [wakatime-badge]: https://wakatime.com/badge/user/ca55f4a1-d151-444b-806b-5cd1ffecec4a.svg
 [wakatime-profile]: http://wakatime.com/@rvbsm
